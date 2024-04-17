@@ -4,8 +4,9 @@
   "description": "Projeto realizado em aula de estudo",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon -e ts,json,mustache src/server.ts"
+    "start-dev": "nodemon -e ts,json,mustache src/server.ts"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
